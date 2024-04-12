@@ -1,6 +1,4 @@
-# GDCRinTAN
-
-# Nesterov-Momentum Gradient Descent Clustering
+# Gradient Descent Clustering with Regularization in Transformed Attributed Network (GDCRinTAN).
 
 
 **Abstract.**
