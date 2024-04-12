@@ -1,9 +1,5 @@
 # Gradient Descent Clustering with Regularization to Recover Communities in Transformed Attributed Networks(GDCRinTAN).
 
-### Author: Soroosh Shalileh
-- Head of Artificial Intelligence in Cognitive Science Laboratory (AICS);
-- Research Fellow at Center for Language and Brain, HSE University, Moscow, Rf.//
-- PhD in Computer Science.
 
 **Abstract.**
 
@@ -23,6 +19,11 @@ Currently only pandas dataframes are accepted and the must be located in ./Datas
 The paper is under the review in ASONAM 2024.
 
     
+### Author: Soroosh Shalileh
+- Head of Artificial Intelligence in Cognitive Science Laboratory (AICS);
+- Research Fellow at Center for Language and Brain, HSE University, Moscow, Rf.//
+- PhD in Computer Science.
+
 
 
 
