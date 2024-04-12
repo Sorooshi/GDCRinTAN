@@ -1,4 +1,4 @@
-# Gradient Descent Clustering with Regularization in Transformed Attributed Network (GDCRinTAN).
+# Gradient Descent Clustering with Regularization to Recover Communities in Transformed Attributed Networks(GDCRinTAN).
 
 
 **Abstract.**
